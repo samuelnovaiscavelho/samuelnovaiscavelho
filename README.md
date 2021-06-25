@@ -9,13 +9,13 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 ### 🌏 “No mundo nada supera a persistência de aprender e evoluir” 🚀  
 
 
-- 💻 Acesse meu portfólio para saber mais sobre mim [Portfólio](https://www.avenuecode.com/)
-
-
+- 💻 Acesse meu [Portfólio](https://www.avenuecode.com/)
+ para saber mais sobre mim 🙂
+ 
 Para me alcançar   👇🏼
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/samuel-cavelho/)](https://www.linkedin.com/in/samuel-cavelho/)
-[![Gmail Badge](https://img.shields.io/badge/-samuel.novais247@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel.novais247@gmail.com)](mailto:samuel.novais247@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-samuel.novais247@gmail.com-Black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:samuel.novais247@gmail.com)](mailto:samuel.novais247@gmail.com)
 
 
 
