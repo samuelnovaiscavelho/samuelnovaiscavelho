@@ -2,7 +2,7 @@
 
 Meu nome é Samuel Novais Cavelho 🧑🏽‍💻
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na HLB Brasil de Sistemas Suporte desde 2020.💻
+Sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na HLB Brasil atualmente de Sistemas Suporte.💻
 
 Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.   
 
