@@ -12,15 +12,15 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 - 💻 Acesse meu [**Portfólio**](https://www.linkedin.com/in/samuel-cavelho/)
  para saber mais sobre mim 🙂
  
-Para me alcançar   👇🏼
+**Para me alcançar**   👇🏼
 
 <div>
-   <img align="right" width="135" height="170" src="https://tenor.com/view/covid-hi-hello-hey-hey-there-gif-18791778">
+   <img align="right" width="155" height="175" src="https://media.tenor.com/images/6ebf7e46649d80bad20239b103677fe8/tenor.gif">
 </div>
 
  <br>
 
-<div align="center">
+<div align="left">
  <a href="https://www.linkedin.com/in/samuel-cavelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href = "mailto:samuel.novais247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-darkolivegreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
