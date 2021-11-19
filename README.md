@@ -2,7 +2,7 @@
 
 Meu nome é Samuel Novais Cavelho 🧑🏽‍💻
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e trabalho na Indufix atualmente de Desenvolvedor Web.💻
+Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente estou em busca de uma oportunidade de Programação.💻
 
 Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.   
 
