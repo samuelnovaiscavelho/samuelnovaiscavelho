@@ -8,9 +8,6 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 
 ### 🌏 “No mundo nada supera a persistência de aprender e evoluir” 🚀  
 
- 
-**Para me alcançar**   👇🏼
-
 <div>
    <img align="right" width="250" height="200" src="https://i.imgur.com/hgU3P2W.gif">
 </div>
