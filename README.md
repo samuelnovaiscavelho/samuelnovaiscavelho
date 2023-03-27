@@ -43,6 +43,11 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 <a href="https://www.youtube.com/c/@samuelnovais247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelnovais247" height="30" width="40" /></a>
 </p>
 
+**Para entrar em contato**   👇🏼
+
+ <a href = "mailto:samuel.novais247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-darkolivegreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 
 
