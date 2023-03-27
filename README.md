@@ -12,7 +12,7 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 **Para me alcançar**   👇🏼
 
 <div>
-   <img align="right" width="155" height="175" src="https://media.tenor.com/images/6ebf7e46649d80bad20239b103677fe8/tenor.gif">
+   <img align="right" width="250" height="200" src="https://i.imgur.com/hgU3P2W.gif">
 </div>
 
  <br>
