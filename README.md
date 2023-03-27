@@ -41,7 +41,7 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-cavelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-cavelho" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@samuelnovais247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelnovais247" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCnf6Rke-xl9o2If6BWUNk6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelnovais247" height="30" width="40" /></a>
 </p>
 
 **Para entrar em contato**   👇🏼
