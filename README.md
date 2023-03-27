@@ -25,7 +25,7 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelnovaiscavelho&label=Visitas%20Do Perfil&color=0e75b6&style=flat" alt="samuelnovaiscavelho" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelnovaiscavelho&label=Profile%20views&color=0e75b6&style=flat" alt="samuelnovaiscavelho" /> </p>
 
 - agendamento de consultas médicas para idosos que possuem diculdade para manipular recursos tecnológicos [BeLive](https://github.com/samuelnovaiscavelho/belive_backend)
 
