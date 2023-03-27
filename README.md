@@ -36,8 +36,6 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 
 - Projeto envia SMS [Envio de SMS](https://github.com/samuelnovaiscavelho/Projeto_Pitao_Envia_SMS)
 
-- 📫 Como chegar até mim **samuel.novais247@gmail.com**
-
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-cavelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-cavelho" height="30" width="40" /></a>
