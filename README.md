@@ -16,13 +16,14 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 </div>
 
  <br>
-
-<div align="left">
- <a href="https://www.linkedin.com/in/samuel-cavelho/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:samuel.novais247@gmail.com"><img src="https://img.shields.io/badge/-Gmail-darkolivegreen?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-![Snake animation](https://github.com/samuelnovaiscavelho/samuelnovaiscavelho/blob/output/github-contribution-grid-snake.svg)
-
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
+ <br>
 </div>
 
 ---
