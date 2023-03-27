@@ -55,10 +55,10 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 
 
 
-</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelnovaiscavelho&show_icons=true&locale=pt-br&layout=compact" alt="samuelnovaiscavelho" /></p>
+</p> <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=samuelnovaiscavelho&show_icons=true&locale=pt-br&layout=compact&theme=tokyonight" alt="samuelnovaiscavelho" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelnovaiscavelho&show_icons=true&locale=pt-br" alt="samuelnovaiscavelho" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=samuelnovaiscavelho&show_icons=true&locale=pt-br&theme=tokyonight" alt="samuelnovaiscavelho" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelnovaiscavelho&show_icons=true&locale=pt-br" alt="samuelnovaiscavelho" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelnovaiscavelho&show_icons=true&locale=pt-br&theme=tokyonight" alt="samuelnovaiscavelho" /></p>
 
 
