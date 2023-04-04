@@ -2,7 +2,7 @@
 
 Meu nome é Samuel Novais Cavelho 🧑🏽‍💻
 
-Sou estudante de Análise e Desenvolvimento de Sistemas e atualmente sou estagiário na TAG Investimentos de Tecnologia da Informação.💻
+Atualmente estou cursando MBA de Engenharia de Software
 
 Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.   
 
