@@ -27,11 +27,6 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuelnovaiscavelho&label=Profile%20views&color=0e75b6&style=flat" alt="samuelnovaiscavelho" /> </p>
 
-- Agendamento de consultas médicas para idosos que possuem diculdade para manipular recursos tecnológicos [BeLive](https://github.com/samuelnovaiscavelho/belive_backend)
-
-- Website desenvolvido para o projeto do Cedir, referente ao descarte correto para materiais eletrônicos [Site Cedir](https://github.com/samuelnovaiscavelho/SiteCedir)
-
-- Projeto envia SMS [Envio de SMS](https://github.com/samuelnovaiscavelho/Projeto_Pitao_Envia_SMS)
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
