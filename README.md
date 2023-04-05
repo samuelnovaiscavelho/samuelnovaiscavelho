@@ -6,6 +6,11 @@ Atualmente estou cursando MBA de Engenharia de Software
 
 Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.   
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Web+Full+Stack+Java;Fazendo+As+Idéias+Acontecerem!&font=Fira%35Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
+
 ### 🌏 “No mundo nada supera a persistência de aprender e evoluir” 🚀  
 
 <div>
