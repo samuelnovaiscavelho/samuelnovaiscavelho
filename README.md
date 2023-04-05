@@ -40,7 +40,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samuelnovaiscavelho&show_icons=true&locale=pt-br&theme=tokyonight" alt="samuelnovaiscavelho" /></p>
 
 <details>
- <summary><h3>👨‍💻 Jornada de codificação do Samuel Novais</h3></summary>
+ <summary><h3>👨‍💻 Jornada de codificação do Samuel Cavelho</h3></summary>
  Eu iniciei minha jornada de codificação como estudante em 2017 através de um curso na USP profissionalizante chamado Paideia e sempre fui apaixonado por desafios e jogos relacionados a lógica, tanto que fui medalhista em um torneio de xadrez na escola e quando descobri o mundo da tecnologia fiquei apaixonado. No entanto, apesar das dificuldades encontradas no início, nunca desisti do meu sonho e foquei nos estudos até que então conquistei minha bolsa 100% na FIAP e concluí meu tecnólogo em 2022 e para minha surpresa no ano de 2023 acabei conquistando uma bolsa na USP de MBA em Engenharia de Software. 
 
 
