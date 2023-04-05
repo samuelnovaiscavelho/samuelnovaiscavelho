@@ -11,10 +11,6 @@
 - 📌 Gosto de jogos de lógica e práticar esportes.
 
  <br>
- <br>
- <br>
- <br>
- <br>
 
 ---
 
