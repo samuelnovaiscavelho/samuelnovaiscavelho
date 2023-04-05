@@ -1,28 +1,20 @@
-# Olá, seja muito bem-vindo (a)  👋
-
-Meu nome é Samuel Novais Cavelho 🧑🏽‍💻
-
-Atualmente estou cursando MBA de Engenharia de Software
-
-Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos<br/> desafios e pronto para enfrentar mudanças.   
+<h1 align="center">Olá, seja muito bem-vindo (a)  👋</h1>
+  
+<img align="right" alt="Samuel-Nov" width="330" src="https://i.imgur.com/hgU3P2W.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C58FF&width=435&lines=Desenvolvedor+Web+Full+Stake;Fazendo+As+Idéias+Acontecerem!)](https://git.io/typing-svg)
- 
 
-<div>
-   <img align="right" width="250" height="200" src="https://i.imgur.com/hgU3P2W.gif">
-</div>
+- 🧑🏽‍💻 Meu nome é **Samuel Novais Cavelho.** 
+- 🎓 Atualmente estou cursando **MBA de Engenharia de Software.**
+- 💡 Sou apaixonado por aprender e resolver problemas.
+- 🚀 Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.
+- 📌 Gosto de jogos de lógica e práticar esportes.
 
  <br>
  <br>
  <br>
  <br>
  <br>
- <br>
- <br>
- <br>
- <br>
-</div>
 
 ---
 
