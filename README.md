@@ -4,12 +4,10 @@ Meu nome é Samuel Novais Cavelho 🧑🏽‍💻
 
 Atualmente estou cursando MBA de Engenharia de Software
 
-Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos desafios e pronto para enfrentar mudanças.   
+Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos<br/> desafios e pronto para enfrentar mudanças.   
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C58FF&width=435&lines=Desenvolvedor+Web+Full+Stake;Fazendo+As+Idéias+Acontecerem!)](https://git.io/typing-svg)
-
-
-### 🌏 “No mundo nada supera a persistência de aprender e evoluir” 🚀  
+ 
 
 <div>
    <img align="right" width="250" height="200" src="https://i.imgur.com/hgU3P2W.gif">
@@ -34,10 +32,8 @@ Sou apaixonado por aprender e resolver problemas. Estou sempre aberto a novos de
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/samuel-cavelho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samuel-cavelho" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCnf6Rke-xl9o2If6BWUNk6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelnovais247" height="30" width="40" /></a></p>
-
-<a href="mailto:samuel.novais247@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="@samuel.novais247" height="30" width="40" /></a>
-</p>
+<a href="https://www.youtube.com/channel/UCnf6Rke-xl9o2If6BWUNk6w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@samuelnovais247" height="34" width="40" /></a>
+<a href="mailto:samuel.novais247@gmail.com" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/g/24/gmail-icon.svg" alt="@samuel.novais247" height="25" width="35" /></a></p>
 
 
 
