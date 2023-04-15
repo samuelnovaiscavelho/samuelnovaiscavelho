@@ -2,7 +2,7 @@
   
 <img align="right" alt="Samuel-Nov" width="330" src="https://i.imgur.com/hgU3P2W.gif">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C58FF&width=435&lines=Desenvolvedor+Web+Full+Stack;Fazendo+As+Idéias+Acontecerem!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=0C58FF&width=435&lines=Desenvolvedor+Java+Full+Stack;Fazendo+As+Idéias+Acontecerem!)](https://git.io/typing-svg)
 
 - 🧑🏽‍💻 Meu nome é **Samuel Novais Cavelho.** 
 - 🎓 Atualmente estou cursando **MBA de Engenharia de Software.**
